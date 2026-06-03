@@ -1,5 +1,5 @@
 # 🚫 Spam Detector
-
+http://localhost:8501
 A machine learning model that classifies SMS messages as **spam** or **ham (legitimate)** using Complement Naive Bayes and TF-IDF vectorization — built as Project 1 of my AI/ML learning roadmap.
 
 ---
